@@ -1,5 +1,5 @@
 """
-Innleveringsoppgave1 i PY1010
+Innleveringsoppgave 1 i PY1010
 
 Laget av Elena Dubinina
 
@@ -26,6 +26,7 @@ KOST_B=FB+T+DB+BB  # Total kostnad for drift av bensinbil per år
 DIFF=KOST_E - KOST_B  # Differansen mellom elbil og bensinbil per år
 
 print("Differanse mellom kostnader for elbil og bensinbil per år")
+print("ved årlig kjørelengde på",x, "km")
 print("Alle priser er i NOK")
 print("*")
 print("ELBIL - utgifter per år")
